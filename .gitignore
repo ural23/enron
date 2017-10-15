@@ -1,4 +1,5 @@
 enron-email-dataset.zip
 emails.csv
+user_and_emails.csv
 spark-warehouse/*
 .DS_Store
