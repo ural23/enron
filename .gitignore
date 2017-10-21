@@ -3,3 +3,9 @@ emails.csv
 user_and_emails.csv
 spark-warehouse/*
 .DS_Store
+bin/
+lib/
+
+include/
+pip-selfcheck.json
+
